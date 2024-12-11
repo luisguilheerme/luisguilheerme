@@ -17,6 +17,6 @@
 </p>
  
 ___
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postman,hibernate,maven,postgres,mongodb,git,github,docker,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postman,hibernate,maven,postgres,mongodb,git,github,docker,angular,rabbitmq,aws,linux)](https://skillicons.dev)
 ___
 
